@@ -1,0 +1,2 @@
+# msmtp
+Plesk MSMTP Settings
