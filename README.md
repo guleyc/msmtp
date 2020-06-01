@@ -1,3 +1,4 @@
 # msmtp
-Plesk MSMTP Settings
-edit: /etc/msmtprc
+## Plesk Panel SMTP Yandex Mail Error Solution
+
+edit /etc/msmtprc
